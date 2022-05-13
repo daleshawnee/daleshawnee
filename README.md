@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about everything!
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on things i like  
-- 📫 How to reach me email
+- 📫 How to reach me tim@timroller.com
 
 <!---
 daleshawnee/daleshawnee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
