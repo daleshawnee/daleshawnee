@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daleshawnee
-- 👀 I’m interested in learning about blockchain
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on anything  
+- 👀 I’m interested in learning about everything!
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on things i like  
 - 📫 How to reach me email
 
 <!---
